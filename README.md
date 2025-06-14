@@ -43,7 +43,7 @@
 
 ### 🌐 Connect
 
-> Portfolio & Blog: _Coming Soon_  
+> Portfolio site: [_Click here_](https://jpforge-portfolio.vercel.app/)  
 > LinkedIn & Contact: _Coming Soon_
 
 ---
